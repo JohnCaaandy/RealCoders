@@ -1,6 +1,6 @@
 # RealCoders
-[![GitHub issues](https://img.shields.io/github/issues/dunstontc/PROJECT.svg)](https://github.com/dunstontc/PROJECT/issues)
-[![License](https://img.shields.io/github/license/dunstontc/PROJECT.svg)](https://github.com/dunstontc/PROJECT/blob/master/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/dunstontc/RealCoders.svg)](https://github.com/dunstontc/RealCoders/issues)
+[![License](https://img.shields.io/github/license/dunstontc/RealCoders.svg)](https://github.com/dunstontc/RealCoders/blob/master/LICENSE)
 
 ## Project Ideas
 
@@ -27,5 +27,5 @@
 
 ### ???
 
-## [License](https://github.com/dunstontc/PROJECT/blob/master/LICENSE)
+## [License](https://github.com/dunstontc/RealCoders/blob/master/LICENSE)
 
