@@ -1,0 +1,42 @@
+#   ┌─┐┬┌┬┐┬┌─┐┌┐┌┌─┐┬─┐┌─┐
+#   │ ┬│ │ ││ ┬││││ │├┬┘├┤
+#  o└─┘┴ ┴ ┴└─┘┘└┘└─┘┴└─└─┘
+
+# Mac/Windows system files
+Icon?
+.DS_store
+Desktop.ini
+Thumbs.db
+.Spotlight-V100
+.Trashes
+
+# dependencies
+node_modules/**
+bower_components/**
+
+# Built files
+Build/**
+build/**
+dist/**
+
+# Local files
+.env
+.variables
+.ignore/**
+ignore/**
+
+# Logs
+**/*.map
+npm-debug.log
+npm-debug.log.*
+yarn-error.log
+
+# Misc.
+!.gitkeep
+# .idea
+# .vs
+# .vscode
+.projectile
+**/tags
+
+
